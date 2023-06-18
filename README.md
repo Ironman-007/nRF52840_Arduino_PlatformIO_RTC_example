@@ -2,8 +2,8 @@
 
 A simple example realizing RTC function in nRF52840 with Arduino (PlatformIO) platform.
 
-##Hardware
+## Hardware
 Adafruit nRF52840 feather Express
 
-##Software plaform
+## Software plaform
 VSCode + PlatformIO
