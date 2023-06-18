@@ -9,4 +9,4 @@ Adafruit nRF52840 feather Express
 VSCode + PlatformIO
 
 ## Description
-The red LED (D3) will toggle every 2s (configurable)
+The red LED (D3) will toggle every 4s (configurable)
